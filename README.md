@@ -1,0 +1,2 @@
+# fisrtdome
+my fisrt repo
